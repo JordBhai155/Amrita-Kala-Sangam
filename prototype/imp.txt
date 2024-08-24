@@ -1,0 +1,10 @@
+navbar - #3d3d3d
+comp 1 - black
+comp2  - #222
+footer - #3d3d3d
+
+#00f3ff
+
+<i class="fa-solid fa-wind"></i>
+<i class="fa-solid fa-water"></i>
+<i class="fa-solid fa-solar-panel"></i>

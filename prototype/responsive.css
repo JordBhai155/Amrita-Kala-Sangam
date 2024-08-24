@@ -1,0 +1,169 @@
+@media (max-width: 680px) {
+  .comp-title {
+    font-size: 2.8vw;
+  }
+
+  .nav-intro {
+    flex-direction: column;
+    padding-top: 18vw;
+  }
+  .nav-intro-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .nav-intro-body h1 {
+    font-size: 7vw;
+  }
+  .nav-intro-body h2 {
+    font-size: 2.5vw;
+  }
+  .nav-intro-body p {
+    font-size: 2.3vw;
+  }
+  .nav-intro-body button {
+    font-size: 2.5vw;
+  }
+  .nav-intro-img img {
+    width: 59vw;
+    height: 74vh;
+    padding-right: 0;
+  }
+
+  .nav ul li a {
+    font-size: 2.2vw;
+  }
+
+  .nav-icons {
+    font-size: 4vw;
+    gap: 18px;
+  }
+
+  .nav-icons button {
+    font-size: 2.5vw;
+  }
+  .nav-icons i {
+    font-size: 3.5vw;
+  }
+
+  .intro-body {
+    flex-direction: column;
+  }
+
+  .intro-body-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .intro-body-img img {
+    width: 74vw;
+    height: 81vh;
+  }
+
+  .intro-body-p {
+    font-size: 10px;
+    text-align: center;
+  }
+
+  .brief-card {
+    width: 100%;
+  }
+
+  .brief-body {
+    flex-direction: column;
+  }
+
+  .brief-card-content {
+    font-size: 13px;
+  }
+
+  .brief-card-content button {
+    font-size: 16px;
+  }
+
+  .team-body {
+    flex-wrap: wrap;
+  }
+
+  .team-card {
+    width: 100%;
+  }
+
+  .team-card img {
+    width: 48vw;
+  }
+
+  .team-card-icons ul {
+    font-size: 5vw;
+  }
+
+  .inspire-body {
+    flex-wrap: wrap;
+  }
+
+  .res-body {
+    flex-wrap: wrap;
+  }
+  .res-card button{
+    font-size: 14px;
+  }
+  .calendar-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .cal {
+    font-size: 2.5vw;
+  }
+
+  .contact-body {
+    flex-direction: column;
+  }
+
+  .contact-left {
+    width:92%;
+  }
+  .contact-right {
+    width: 100%;
+  }
+
+  .contact-left-content p {
+    font-size: 15px;
+  }
+
+  .contact-right button {
+    position: static;
+  }
+
+  .footer {
+    flex-direction: column;
+  }
+
+  .footer-icons {
+    margin: auto;
+    flex-wrap: wrap;
+    display: flex;
+    width: 26%;
+  }
+
+  .footer ul {
+    flex-wrap: wrap;
+    gap: 0 21px;
+  }
+
+  .footer-icons {
+    right: 60px;
+    width: 20%;
+  }
+
+  .footer h1 {
+    padding-top: 20px;
+  }
+
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+  .support-body{
+    flex-wrap: wrap;
+  }
+}

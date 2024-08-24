@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Hind Siliguri";
+    color: white;
+}
+
+.flex{
+    display: flex;
+}
+.center{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none;
+}
+
+
+  
+@keyframes typing {
+  
+    40%,
+    60% {
+      left: calc(100% + 2.30vw);
+    }
+  
+    100% {
+      left: 0;
+    }
+  }
+  
+  @keyframes slide {
+    0%{
+        top: 0;
+    }
+    100% {
+      top: -11.5vw;
+    }
+  }
+
+  
+@keyframes right-left {
+    from {
+      opacity: 0;
+      transform: translateX(-4.80vw);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes left-right {
+    from {
+      opacity: 0;
+      transform: translateX(4.80vw);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes zeroHero {
+       from{
+           transform: scale(0.7);
+       }
+       to{
+           transform: scale(1);
+       }
+  }
+
+  @keyframes hrRight {
+       0%{
+           width: 0;
+       }
+       50%{
+           width: 10%;
+       }
+       100%{
+           width: 26%;
+       }
+  }
+ 
+
+  .comp2 {
+    background-color: #1a1919;
+}
+
+.comp1{
+    background: black;
+}
+
+.ind-comp-body{
+    padding: 2vw;
+
+    margin-top: 3vw;
+}
+
+.title-hr {
+    height: 0.30vw;
+    background: #009900;
+    width: 26%;
+    margin: auto;
+    border: none;
+    border-radius: 1.47vw;
+    animation: hrRight 3s linear;
+}
+
+.comp-title{
+    text-align: center;
+    font-size: 1.71vw;
+    color: white;
+}
+
+.ind-comp{
+    padding-top: 3vw;
+    padding-bottom: 4vw;
+}

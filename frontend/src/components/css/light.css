@@ -1,0 +1,89 @@
+/* Light Mode (default) */
+body.light-mode {
+    background-color: #f5f5f5;
+    color: black;
+}
+body.light-mode a{
+    color: black;
+}
+
+body.light-mode .nav {
+    background: #f5f5f5;
+}
+body.light-mode .nav-intro {
+    background: white;
+}
+
+
+body.light-mode .comp2 {
+    background: #e0e0e0;
+}
+body.light-mode .comp1 {
+    background: #fff;
+}
+body.light-mode .team-card:hover {
+    background: #f5f5f5;
+}
+body.light-mode .footer {
+    background: #e0e0e0;
+}
+body.light-mode .cal {
+    background: #e8e8e8;
+}
+body.light-mode .contact-left {
+    background: #f5f5f5;
+}
+body.light-mode .comp-title {
+    color:black;
+}
+body.light-mode .brief-card-content {
+    color:black;
+}
+body.light-mode .footer {
+    border-top: 2px solid grey;
+}   
+
+
+
+body.light-mode button {
+    background: #009900;
+}
+body.light-mode .brief-card-content p {
+    font-weight: bolder;
+}
+
+body.light-mode .brief-card,
+body.light-mode .res-card,
+body.light-mode .inspire-card,
+body.light-mode .support-card {
+    background: #ffffff;
+}
+
+body.light-mode .brief-card:hover,
+body.light-mode .res-card:hover,
+body.light-mode .inspire-card:hover,
+body.light-mode .support-card:hover {
+    background: #f0f0f0;
+}
+
+
+/* Dark Mode */
+body.dark-mode {
+    background-color: #222;
+    color: #fff;
+}
+
+
+body.dark-mode a {
+    
+    color: #fff;
+}
+
+body.dark-mode input {
+    
+    color: #fff;
+}
+body.dark-mode .btn-submit button {
+    
+    color: #fff;
+}
