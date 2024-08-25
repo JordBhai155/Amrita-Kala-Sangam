@@ -26,7 +26,7 @@ const submitData = async (btn)=>{
     btn.preventDefault()
     alert("Submitted!")
     try{
-        const response = await fetch("http://localhost:5000/api/register",{
+        const response = await fetch("https://amrita-kala-sangam.onrender.com/api/register",{
             method : "POST",
             headers: {
                 "Content-Type" : "application/json"
