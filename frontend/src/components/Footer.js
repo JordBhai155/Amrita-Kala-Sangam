@@ -6,7 +6,7 @@ function Footer() {
     <div class="footer">
         <div class="footer-content center">
 
-            <img src="images/img2.png" alt="jayant" srcset=""/>
+            <img src="images/jordfins-png.png" alt="jordfins" srcset=""/>
             <h1>JAYANT KR. GAUTAM | Copyright &#169; 2024 </h1>
         </div>
         <div class="footer-icons">
