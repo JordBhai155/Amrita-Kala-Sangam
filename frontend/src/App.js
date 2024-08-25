@@ -12,10 +12,7 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link,
-  createBrowserRouter,
-  RouterProvider,
-  useLocation,
+  
 } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Top from './components/Top';
