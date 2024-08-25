@@ -316,15 +316,15 @@ button:hover {
 }
 
 #c1:before{
-    background-image: url("C:\Users\jayant kumar gautam\Desktop\Amrita Fest\frontend\public\images\card1.jpg"); 
+    background-image: url("../../../public/images/card1.jpg"); 
     
 }
 #c2:before{
-    background-image: url("C:\Users\jayant kumar gautam\Desktop\Amrita Fest\frontend\public\images\card2.jpg"); 
+    background-image: url("../../../public/images/card2.jpg"); 
     
 }
 #c3:before{
-    background-image: url("C:\Users\jayant kumar gautam\Desktop\Amrita Fest\frontend\public\images\card3.jpg"); 
+    background-image: url("../../../public/images/card3.jpg"); 
     
 }
 

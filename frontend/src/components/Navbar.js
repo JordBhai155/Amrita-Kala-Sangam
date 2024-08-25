@@ -3,12 +3,9 @@ import React,{useState,useEffect} from 'react'
 
 
 import {
-    BrowserRouter as Router,
-    Routes,
-    Route,
+    
     Link,
-    createBrowserRouter,
-    RouterProvider,
+    
   } from "react-router-dom";
 
 function Navbar() {
@@ -56,10 +53,10 @@ const [isDarkMode, setIsDarkMode] = useState(true);
                 <div class="nav-intro-p">
                     <p>Dive into a range of groundbreaking solutions that are setting new standards for environmental protection and sustainable living. Learn about the latest technologies and strategies that are transforming how we address ecological challenges. Discover how these innovative approaches are helping us create a more balanced and resilient planet for future generations. Stay informed and inspired as we explore the path to a truly sustainable future.</p>
                 </div>
-                <button><a href="https://apiumhub.com/tech-blog-barcelona/innovation-blogs/" target='_blank'>Learn More</a></button>
+                <button><a href="https://apiumhub.com/tech-blog-barcelona/innovation-blogs/" target="_blank" rel="noopener noreferrer">Learn More</a></button>
             </div>
             <div class="nav-intro-img">
-                <img src="/images/navintro.png" alt="Image 1"/>
+                <img src="/images/navintro.png" alt="Intro 1"/>
             </div>
         </div>
     </div>

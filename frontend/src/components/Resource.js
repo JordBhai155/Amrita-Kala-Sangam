@@ -22,7 +22,7 @@ function Resource() {
 
 
                             </p>
-                        <button><a href='https://youtu.be/jfsWI8XgQyo?si=dA3JnDqTOeTKOieH' target='_blank'>Start Watching</a></button>
+                        <button><a href='https://youtu.be/jfsWI8XgQyo?si=dA3JnDqTOeTKOieH' target="_blank" rel="noopener noreferrer">Start Watching</a></button>
                     </div>
                 </div>
 
@@ -41,7 +41,7 @@ Innovation is vital for a company's survival and growth. Firms that don't innova
 However, traditional forms of innovation may result in profitable products, services, and processes : but also harm employees or over-exploit natural resources. 
 
 </p>
-                            <button><a href='https://youtu.be/li0EpfSbOJg?si=NMcUlVyioG_T0SG0' target='_blank'>Start Watching</a></button>
+                            <button><a href='https://youtu.be/li0EpfSbOJg?si=NMcUlVyioG_T0SG0' target="_blank" rel="noopener noreferrer">Start Watching</a></button>
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@ However, traditional forms of innovation may result in profitable products, serv
                         <h1>The Future Is… Sustainable Innovation</h1>
                         <p>Honeywell Senior Vice President and Chief Commercial Officer John Waldron discusses emerging corporate sustainability trends as highlighted in findings from the Environmental Sustainability Index, as well as how a combination of new technology and behavioral shifts will help companies achieve sustainable outcomes. 
                         Hear all this and more in The Future Is… podcast, hosted by Honeywell Chief Marketing Officer Laura Kelleher. </p>
-                            <button><a href='https://www.youtube.com/watch?v=odOPK-CWNC0' target='_blank'>Start Watching</a></button>
+                            <button><a href='https://www.youtube.com/watch?v=odOPK-CWNC0' target="_blank" rel="noopener noreferrer">Start Watching</a></button>
                     </div>
                 </div>
 

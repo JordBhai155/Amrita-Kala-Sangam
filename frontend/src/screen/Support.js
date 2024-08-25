@@ -1,12 +1,9 @@
 import React, { useEffect , useState } from "react";
 import Footer from "../components/Footer";
 import {
-    BrowserRouter as Router,
-    Routes,
-    Route,
+    
     Link,
-    createBrowserRouter,
-    RouterProvider,
+    
   } from "react-router-dom";
 
 
@@ -59,7 +56,7 @@ const toggleTheme = () => {
               </p>
             </div>
             <button>
-              <a href="https://www.paypal.com/in/home" target="_blank">Support Now</a>
+              <a href="https://www.paypal.com/in/home" target="_blank" rel="noopener noreferrer">Support Now</a>
             </button>
           </div>
           <div class="support-card">
@@ -75,7 +72,7 @@ const toggleTheme = () => {
               </p>
             </div>
             <button>
-              <a href="https://www.paypal.com/in/home" target="_blank">Support Now</a>
+              <a href="https://www.paypal.com/in/home" target="_blank" rel="noopener noreferrer">Support Now</a>
             </button>
           </div>
           <div class="support-card">
@@ -91,7 +88,7 @@ const toggleTheme = () => {
               </p>
             </div>
             <button>
-              <a href="https://www.paypal.com/in/home" target="_blank">Support Now</a>
+              <a href="https://www.paypal.com/in/home" target="_blank" rel="noopener noreferrer">Support Now</a>
             </button>
           </div>
         </div>
